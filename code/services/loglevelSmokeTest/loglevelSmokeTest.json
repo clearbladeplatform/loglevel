@@ -1,0 +1,12 @@
+{
+    "current_version": 1,
+    "dependencies": "log,loglevel",
+    "logging_enabled": "false",
+    "name": "loglevelSmokeTest",
+    "params": [],
+    "permissions": {
+        "Authenticated": 1
+    },
+    "run_user": "",
+    "source": "loglevelSmokeTest.js"
+}
